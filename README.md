@@ -5,7 +5,6 @@
 [![Github Star][github-repo-star-image]][github-repo-url]
 [![standard-readme compliant][standard-readme-image]][standard-readme-url]
 
-
 [背景](#背景) | [介绍](#介绍) | [使用](#使用) | [示例](#示例) | [相关仓库](#相关仓库) | [维护者](#维护者) | [如何贡献](#如何贡献) | [协议](#协议) | [English](README.en-US.md)
 
 ## 背景
@@ -39,39 +38,39 @@ github-repository-template
 
 1. [README.md](README.md)
 
-    > 自诉文件，包含仓库中文件相关信息的文本文件，通常是仓库访问者看到的第一个文件。自述文件连同仓库许可证、参与指南以及行为准则，帮助您交流要求和管理项目的参与。
+   > 自诉文件，包含仓库中文件相关信息的文本文件，通常是仓库访问者看到的第一个文件。自述文件连同仓库许可证、参与指南以及行为准则，帮助您交流要求和管理项目的参与。
 
 2. [README.en-US.md](README.en-US.md)
 
-    > 自诉文件英文版。
+   > 自诉文件英文版。
 
 3. [LICENSE](LICENSE)
 
-    > 许可，一种可随附于项目的文档，告知们能够对您的源代码执行哪些操作，不能执行哪些操作。
+   > 许可，一种可随附于项目的文档，告知们能够对您的源代码执行哪些操作，不能执行哪些操作。
 
 4. [.gitignore](.gitignore)
 
-    > gitignore文件指定Git应该忽略的故意未跟踪的文件。 Git已经跟踪的文件不受影响； 有关详细信息，请参见[链接](https://git-scm.com/docs/gitignore)。
+   > gitignore 文件指定 Git 应该忽略的故意未跟踪的文件。 Git 已经跟踪的文件不受影响； 有关详细信息，请参见[链接](https://git-scm.com/docs/gitignore)。
 
 5. [CHANGELOG.md](CHANGELOG.md)
 
-    > 每次发布新版本时，记录新版本变化的特性，以及修改的bug等信息。
+   > 每次发布新版本时，记录新版本变化的特性，以及修改的 bug 等信息。
 
 6. [CONTRIBUTING.md](CONTRIBUTING.md)
 
-    > 贡献规范，比如代码编写规范，如果提问题、提bug、提需求，如何编写文档等。
+   > 贡献规范，比如代码编写规范，如果提问题、提 bug、提需求，如何编写文档等。
 
 7. [.github/COMMIT_CONVENTION.md](.github/COMMIT_CONVENTION.md)
 
-    > git提交信息规范。
+   > git 提交信息规范。
 
 8. [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)
 
-    > 提交`pull request`模版。
+   > 提交`pull request`模版。
 
 9. [.github/ISSUE_TEMPLATE/bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md)
 
-    > 在`issue`中提bug的模版。
+   > 在`issue`中提 bug 的模版。
 
 10. [.github/ISSUE_TEMPLATE/custom.md](.github.com/ISSUE_TEMPLATE/custom.md)
 
@@ -83,11 +82,11 @@ github-repository-template
 
 12. [.github/workflows/main.yml](.github.com/workflows/main.yml)
 
-    > GitHub Action配置文件，可以配置仓库的CI/CD。
+    > GitHub Action 配置文件，可以配置仓库的 CI/CD。
 
 ## 使用
 
-点击[![使用这个模板][use-this-template]][generate]按钮，一键生成标准GitHub仓库。
+点击[![使用这个模板][use-this-template]][generate]按钮，一键生成标准 GitHub 仓库。
 
 或者使用`gh`命令行创建项目
 
@@ -101,8 +100,8 @@ gh repo create myRepository -p GitHubTemplates/github-repository-template
 
 ## 相关仓库
 
-- [standard-readme](https://github.com/RichardLitt/standard-readme) — 一个标准README样式建议的仓库。
-- [Angular.js](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md) — Angular.js仓库贡献的编写规范
+- [standard-readme](https://github.com/RichardLitt/standard-readme) — 一个标准 README 样式建议的仓库。
+- [Angular.js](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md) — Angular.js 仓库贡献的编写规范
 
 ## 维护者
 
@@ -123,6 +122,7 @@ Github-Repository-Template 遵循 [Contributor Covenant](http://contributor-cove
 [github-action-image]: https://github.com/GitHubTemplates/github-repository-template/workflows/GithubRepositoryTemplate/badge.svg
 [github-repo-url]: https://github.com/GitHubTemplates/github-repository-template
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg
+[github-repo-star-image]: https://img.shields.io/github/stars/GitHubTemplates/github-repository-template.svg?style=social
 [use-this-template]: https://img.shields.io/badge/-use%20this%20template-brightgreen.svg
 [generate]: https://github.com/GitHubTemplates/github-repository-template/generate
 [standard-readme-image]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
