@@ -118,7 +118,7 @@ Github-Repository-Template 遵循 [Contributor Covenant](http://contributor-cove
 
 ## 协议
 
-[MIT © Jonathan Fan.](LICENSE)
+[MIT © Bruce Maa.](LICENSE)
 
 [github-action-image]: https://github.com/GitHubTemplates/github-repository-template/workflows/GithubRepositoryTemplate/badge.svg
 [github-repo-url]: https://github.com/GitHubTemplates/github-repository-template
