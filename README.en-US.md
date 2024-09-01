@@ -3,8 +3,7 @@
 [![Github Actions][github-action-image]][github-repo-url]
 [![license][license-image]](LICENSE)
 [![Github Star][github-repo-star-image]][github-repo-url]
-[![standard-readme compliant][standard-readme-image]](standard-readme-url)
-[![ViewCount](http://hits.dwyl.com/GitHubTemplates/github-repository-template.svg)][github-repo-url]
+[![standard-readme compliant][standard-readme-image]][standard-readme-url]
 
 [Background](#background) | [Introduction](#introduction) | [Usage](#usage) | [Examples](#examples) | [Related Efforts](#related-efforts) | [Maintainers](#maintainers) | [Contributing](#contributing) | [License](#license) | [中文](README.md)
 
@@ -123,7 +122,6 @@ Github-Repository-Template follows the [Contributor Covenant](http://contributor
 [github-action-image]: https://github.com/GitHubTemplates/github-repository-template/workflows/GithubRepositoryTemplate/badge.svg
 [github-repo-url]: https://github.com/GitHubTemplates/github-repository-template
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg
-[github-repo-star-image]: https://img.shields.io/github/stars/GitHubTemplates/github-repository-template.svg?style=social
 [use-this-template]: https://img.shields.io/badge/-use%20this%20template-brightgreen.svg
 [generate]: https://github.com/GitHubTemplates/github-repository-template/generate
 [standard-readme-image]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
