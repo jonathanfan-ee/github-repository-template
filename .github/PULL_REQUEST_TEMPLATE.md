@@ -1,21 +1,32 @@
-
-# A Pull Request should be associated with an Issue.
+<!-- Thanks for contributing! Please fill out the sections below. -->
 
 ## Description
 
-## Closes issue(s)
+<!-- What does this PR do? Why is it needed? -->
 
-## How to test / repro
+## Related issues
 
-## Screenshots
+<!-- e.g., "Closes #123" or "Refs #456". Remove if not applicable. -->
 
-## Changes include
-- [ ] Bugfix (non-breaking change that solves an issue)
-- [ ] New feature (non-breaking change that adds functionality)
-- [ ] Breaking change (change that is not backwards-compatible and/or changes current functionality)
+## How to test
+
+<!-- Steps to verify the change works. -->
+
+## Screenshots / Demos
+
+<!-- For UI changes. Remove if not applicable. -->
+
+## Type of change
+
+- [ ] Bug fix (non-breaking)
+- [ ] New feature (non-breaking)
+- [ ] Breaking change (backwards-incompatible)
+- [ ] Documentation / tooling / refactor
 
 ## Checklist
-- [ ] I have tested this code
-- [ ] I have updated the Readme
 
-## Other comments
+- [ ] I've read [CONTRIBUTING.md](../CONTRIBUTING.md) and [AGENTS.md](../AGENTS.md)
+- [ ] Commits follow [Conventional Commits](https://www.conventionalcommits.org/)
+- [ ] Tests pass locally
+- [ ] Linter passes locally
+- [ ] I've updated relevant documentation
