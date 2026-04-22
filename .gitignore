@@ -8,7 +8,6 @@ dist/
 dist-ssr/
 build/
 /build/
-hjshare-backend
 *.exe
 *.exe~
 *.dll
@@ -20,6 +19,39 @@ hjshare-backend
 *.out
 go.work
 go.work.sum
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ===== Unity =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Mm]emory[Cc]aptures/
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+[Aa]ssets/AssetStoreTools*
 
 # ===== Logs =====
 logs/
